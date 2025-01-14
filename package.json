@@ -1,0 +1,11 @@
+{
+  "name": "playwright-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.6"
+  },
+  "scripts": {}
+}
